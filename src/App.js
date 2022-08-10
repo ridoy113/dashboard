@@ -51,6 +51,7 @@ const App = () => {
             </div>
           </div>
 
+
           <div>
             <Routes>
               {/* Dashboard */}
@@ -83,6 +84,8 @@ const App = () => {
 
             </Routes>
           </div>
+
+
 
         </div>
       </BrowserRouter >
