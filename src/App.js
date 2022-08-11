@@ -14,7 +14,7 @@ import { Ecommerce, Orders, Calendar, Employees, Stacked, Pyramid, Customers, Ka
 
 const App = () => {
 
-  const activeMenu = false;
+  const activeMenu = true;
 
 
   return (
