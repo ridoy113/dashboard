@@ -11,7 +11,9 @@ import { useStateContext } from '../contexts/ContextProvider';
 
 const Ecommerce = () => {
   return (
-    <div>Ecommerce</div>
+    <div className='mt-12'>
+
+    </div>
   )
 }
 
