@@ -110,17 +110,25 @@ const Ecommerce = () => {
 
 
               <div className='mt-5'>
-                <SparkLine 
-                currentColor="blue"
-                id="line-sparkline"
-                type="Line"
-                height="80px"
-                width="250px"
-                data={SparklineAreaData}
-                color="blue"
+                <SparkLine
+                  currentColor="blue"
+                  id="line-sparkline"
+                  type="Line"
+                  height="80px"
+                  width="250px"
+                  data={SparklineAreaData}
+                  color="blue"
                 />
               </div>
 
+              <div className='mt-10'>
+                <Button
+                  color="white"
+                  bgColor="blue"
+                  text="Download Report"
+                  borderRadius="10px"
+                />
+              </div>
 
             </div>
           </div>
