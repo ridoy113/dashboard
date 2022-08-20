@@ -99,6 +99,15 @@ const Ecommerce = () => {
                 </p>
                 <p className='text-gray-500 mt-1'>Budget</p>
               </div>
+
+              <div className='mt-8 '>
+                <p>
+                  <span className='text-3xl font-semibold'>$55,584</span>
+
+                </p>
+                <p className='text-gray-500 mt-1'>Expanse</p>
+              </div>
+
             </div>
           </div>
         </div>
